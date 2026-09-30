@@ -1,0 +1,9 @@
+{
+  "name": "HealthInsight",
+  "description": "Healthcare Data Analytics & Patient Risk Prediction Platform with real-time analytics, machine learning pipelines, dataset preprocessing, and clinical reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
